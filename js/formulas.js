@@ -37,6 +37,17 @@ var Formulas = [
     stats: [
       ['ATK %', 7],
       ['Critical Damage %', 7],
+      ['Critical Damage', 19],
+      ['Dodge', -7],
+      ['Natural HP Regen %', -7],
+	  ['Aggro %', -10, 1],
+    ],
+  },
+  {
+    weap_arm: 'w',
+    stats: [
+      ['ATK %', 7],
+      ['Critical Damage %', 7],
       ['STR %', 7],
       ['Dodge', -7],
       ['Natural HP Regen %', -7],
